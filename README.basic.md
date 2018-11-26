@@ -1,15 +1,15 @@
-##Project name: Pvk
+## Project name: Pvk
 
-##Description: Proovime kasutada erinevaid vahendeid
+## Description: Proovime kasutada erinevaid vahendeid
 
-##Table of Contents: 
+## Table of Contents: 
 
-##Installation: 
+## Installation: 
 
-##Usage:
+## Usage:
 
-##Contributing: 
+## Contributing: 
 
-##Credits:
+## Credits:
 
-##License:
+## License:
